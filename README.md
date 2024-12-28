@@ -1,6 +1,6 @@
 # Real-Time 2D/3D Position Plotter
 
-This project provides a Python-based application for real-time 2D position plotting, utilizing data received from a serial port, such as from an Arduino or other microcontroller. The program calculates and visualizes the trajectory of a moving object based on acceleration data.
+This project provides a Python-based application for real-time 2D/3D position plotting, utilizing data received from a serial port, such as from an Arduino and using python scipt for a Robotics Projects or other microcontroller. The program calculates and visualizes the trajectory of a moving object based on acceleration data.
 
 ## Features
 
@@ -8,7 +8,7 @@ This project provides a Python-based application for real-time 2D position plott
 - Parses acceleration data (X, Y, Z) from a serial input.
 - Implements basic physics equations to calculate position and velocity.
 - Dynamic graph updates with an adjustable window of data points.
-
+- Uses 9 Axis MPU-9250
 ## Requirements
 
 - Python 3.6 or higher
