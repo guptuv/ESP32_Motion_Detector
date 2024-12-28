@@ -1,5 +1,5 @@
 # Real-Time 2D/3D Position Plotter
--using-MPU-9250-and-ESP32-Motion-detector-using-MPU-9250-and-ESP32-Motion-detector
+Using-MPU-9250-and-ESP32-Motion-detector-using-MPU-9250-and-ESP32-Motion-detector
 <br/>
 This project provides a Python-based application for real-time 2D/3D position plotting, utilizing data received from a serial port, such as from an Arduino and using python scipt for a Robotics Projects or other microcontroller. The program calculates and visualizes the trajectory of a moving object based on acceleration data.
 
