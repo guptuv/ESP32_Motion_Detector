@@ -36,6 +36,24 @@ This project provides a Python-based application for real-time 2D position plott
    pip install pyserial matplotlib
    ```
 
+## Some Results:
+<b> 3D trajectory
+<img src="3d trj_with gravity.png" alt="Italian Trulli">
+<br />
+Acceleration,Velocity and Position in X Y and Z dirn
+<img src="Acc_Vel_Pos.png" alt="Italian Trulli">
+<br />
+Acceleration vs Time while rotating the 9 Axis Imu-9250
+<img src="Figure_1.png" alt="Italian Trulli">
+<br />
+XYZ plot trajectry tracking 
+<img src="XYZplot_with gravity.png" alt="Italian Trulli">
+<img src="X_y_Z.png" alt="Italian Trulli">
+<br />
+While moving in a Sinosudal curve </b>
+![image](https://github.com/user-attachments/assets/3ff0a375-937d-4cc7-94c0-09871b688dc1)
+
+
 ## Usage
 
 1. Connect your microcontroller (e.g., Arduino) to your computer and note its COM port.
