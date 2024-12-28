@@ -1,0 +1,11 @@
+{
+    "background.fullscreen": {
+
+        "images": ["https://unsplash.com/photos/high-rise-buildings-LoGWCnEVDgU"],
+        "opacity": 0.1,
+        "size": "cover",
+        "position": "center",
+        "interval": 0,
+        "random": false
+    }
+}
